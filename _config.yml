@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Work-in-Progress Seminars
+logo: /assets/img/logo.jpg
+description: Schedule for the Philosophy WIP Seminars at Macquarie University (Semester 2, 2024).
+show_downloads: false
 theme: jekyll-theme-minimal
