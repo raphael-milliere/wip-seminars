@@ -9,7 +9,7 @@
 ---
 
 ## 30 July, 2024
-### Speaker [TBC]
+### Stephen Gadsby (Antwerp University)
 ### Title [TBC]
 
 > Abstract [TBC]
@@ -65,7 +65,7 @@
 ---
 
 ## 17 September, 2024
-### Speaker [TBC]
+### John Tasioulos (University of Oxford)
 ### Title [TBC]
 
 > Abstract [TBC]
