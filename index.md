@@ -1,8 +1,8 @@
 # Schedule for Semester 2, 2024
 
 ## 23 July, 2024
-### Speaker [TBC]
-### Title [TBC]
+### Elias Dokos (Macquarie University)
+### Elements of Universality in AI Representations
 
 > Abstract [TBC]
 
