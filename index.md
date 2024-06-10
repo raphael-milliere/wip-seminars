@@ -17,7 +17,7 @@
 ---
 
 ## 6 August, 2024
-### Speaker [TBC]
+### Michael Barnes (ANU)
 ### Title [TBC]
 
 > Abstract [TBC]
