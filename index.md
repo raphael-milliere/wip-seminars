@@ -79,7 +79,7 @@
 ---
 
 ## 1 October, 2024
-### Speaker [TBC]
+### Daniele Valentini (Osnabrück University)
 ### Title [TBC]
 
 > Abstract [TBC]
