@@ -17,7 +17,7 @@
 ---
 
 ## 6 August, 2024
-### Michael Barnes (ANU)
+### Michael Barnes (Australian National University)
 ### Title [TBC]
 
 > Abstract [TBC]
