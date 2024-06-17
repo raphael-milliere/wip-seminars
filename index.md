@@ -4,7 +4,7 @@
 ### Elias Dokos (Macquarie University)
 ### Elements of Universality in AI Representations
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -12,7 +12,7 @@
 ### Stephen Gadsby (Antwerp University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -20,7 +20,7 @@
 ### Michael Barnes (Australian National University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -28,7 +28,7 @@
 ### Gillian Russell (Australian National University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -36,7 +36,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -44,7 +44,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -52,7 +52,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -60,7 +60,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -68,7 +68,7 @@
 ### John Tasioulos (University of Oxford)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -82,7 +82,7 @@
 ### Daniele Valentini (Osnabrück University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -90,7 +90,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -98,7 +98,7 @@
 ### Speaker [TBC]
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -106,7 +106,7 @@
 ### Michelle Liu (Monash University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
 
 ---
 
@@ -114,4 +114,4 @@
 ### Seth Lazar (Australian National University)
 ### Title [TBC]
 
-> Abstract [TBC]
+<!-- > Abstract [TBC] -->
