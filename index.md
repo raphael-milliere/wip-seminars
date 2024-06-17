@@ -111,7 +111,7 @@
 ---
 
 ## 29 October, 2024
-### Speaker [TBC]
+### Seth Lazar (Australian National University)
 ### Title [TBC]
 
 > Abstract [TBC]
