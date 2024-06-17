@@ -25,7 +25,7 @@
 ---
 
 ## 13 August, 2024
-### Speaker [TBC]
+### Gillian Russell (Australian National University)
 ### Title [TBC]
 
 > Abstract [TBC]
