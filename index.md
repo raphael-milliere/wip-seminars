@@ -103,7 +103,7 @@
 ---
 
 ## 22 October, 2024
-### Speaker [TBC]
+### Michelle Liu (Monash University)
 ### Title [TBC]
 
 > Abstract [TBC]
