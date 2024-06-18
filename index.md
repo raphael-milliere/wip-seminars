@@ -9,7 +9,7 @@
 ---
 
 ## 30 July, 2024
-**[Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)**
+### [Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
