@@ -9,7 +9,7 @@
 ---
 
 ## 30 July, 2024
-### Stephen Gadsby (Antwerp University)
+### [Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -17,7 +17,7 @@
 ---
 
 ## 6 August, 2024
-### Michael Barnes (Australian National University)
+### [Michael Barnes](https://researchers.anu.edu.au/researchers/barnes-m) (Australian National University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -25,7 +25,7 @@
 ---
 
 ## 13 August, 2024
-### Gillian Russell (Australian National University)
+### [Gillian Russell](https://gillianrussell.net/) (Australian National University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -65,7 +65,7 @@
 ---
 
 ## 17 September, 2024
-### John Tasioulos (University of Oxford)
+### [John Tasioulas](https://www.philosophy.ox.ac.uk/people/john-tasioulas) (University of Oxford)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -79,7 +79,7 @@
 ---
 
 ## 1 October, 2024
-### Daniele Valentini (Osnabrück University)
+### [Daniele Valentini](https://uni-osnabrueck.academia.edu/DanieleValentini) (Osnabrück University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -103,7 +103,7 @@
 ---
 
 ## 22 October, 2024
-### Michelle Liu (Monash University)
+### [Michelle Liu](https://michelleyuanboliu.wixsite.com/mybl) (Monash University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -111,7 +111,7 @@
 ---
 
 ## 29 October, 2024
-### Seth Lazar (Australian National University)
+### [Seth Lazar](https://sethlazar.org/) (Australian National University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
