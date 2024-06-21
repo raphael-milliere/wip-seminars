@@ -33,8 +33,8 @@
 ---
 
 ## 20 August, 2024
-### Speaker [TBC]
-### Title [TBC]
+### Elias Dokos (Macquarie University)
+### Elements of Universality in AI Representations 
 
 <!-- > Abstract [TBC] -->
 
