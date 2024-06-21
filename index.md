@@ -49,7 +49,7 @@
 ---
 
 ## 3 September, 2024
-### Speaker [TBC]
+### Karen Jones (University of Melbourne)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
