@@ -49,7 +49,7 @@
 ---
 
 ## 3 September, 2024
-### Karen Jones (University of Melbourne)
+### [Karen Jones](https://philpeople.org/profiles/karen-jones) (University of Melbourne)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
