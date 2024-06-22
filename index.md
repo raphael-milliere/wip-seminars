@@ -1,15 +1,15 @@
 # Schedule for Semester 2, 2024
 
 ## 23 July, 2024
-### Elias Dokos (Macquarie University)
-### Elements of Universality in AI Representations
+### [Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)
+### Title [TBC]
 
 <!-- > Abstract [TBC] -->
 
 ---
 
 ## 30 July, 2024
-### [Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)
+### [Neil Mehta](http://www.profneilmehta.com/) (Yale-NUS College)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
