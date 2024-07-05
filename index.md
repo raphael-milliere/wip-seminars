@@ -41,7 +41,7 @@ Recommender systems are now a dominant part of most social media platforms. They
 ---
 
 ## 27 August, 2024
-### Speaker [TBC]
+### [Hannah Tierney](https://www.hannahtierney.com/) (UC Davis)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
@@ -57,7 +57,7 @@ Recommender systems are now a dominant part of most social media platforms. They
 ---
 
 ## 10 September, 2024
-### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi)
+### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi) (Macquarie University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
