@@ -18,9 +18,9 @@
 
 ## 6 August, 2024
 ### [Michael Barnes](https://researchers.anu.edu.au/researchers/barnes-m) (Australian National University)
-### Title [TBC]
+### Responsibility for Recommendations
 
-<!-- > Abstract [TBC] -->
+Recommender systems are now a dominant part of most social media platforms. They play important roles for the billions of people worldwide who access these sites/apps each day. The typical user experience on these platforms consists of an endless stream of recommended posts to read, images to admire, videos to watch, users to follow, groups to join, and more. However, these systems have also been accused of contributing to horrific violence, including the ongoing crisis in Myanmar. This talk argues social media companies share responsibility for the harms that occur on their platforms by demonstrating how they are constitutive intermediaries, not the not mere intermediaries they (sometimes) claim to be. I use speech act theory and the concept of affordances to illuminate the contribution that platform companies make to our communicative acts, showing how platforms shape users’ speech, and also perform important speech acts themselves, with particular focus on recommendations.
 
 ---
 
@@ -57,7 +57,7 @@
 ---
 
 ## 10 September, 2024
-### Speaker [TBC]
+### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
