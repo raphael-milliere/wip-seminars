@@ -95,7 +95,7 @@ Recommender systems are now a dominant part of most social media platforms. They
 ---
 
 ## 15 October, 2024
-### Speaker [TBC]
+### [David Barack](https://dbarack.com/) (Lingnan University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
