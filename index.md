@@ -43,9 +43,9 @@ The skeptical view, properly understood, leaves no room for the capabilities tha
 
 ## 27 August, 2024
 ### [Hannah Tierney](https://www.hannahtierney.com/) (UC Davis)
-### Title [TBC]
+### The Risky Business of Forgiveness 
 
-<!-- > Abstract [TBC] -->
+Philosophers have noted a tension between two independently plausible features of forgiveness: (1) Forgiveness is reasoned: it is something that agents do for reasons, and (2) Forgiveness is elective: it is not something that agents can be required to do. As Per-Erik Milam (2018) has recently argued, if something is done for reasons, particularly moral reasons, then those reasons can, at least sometimes, generate a requirement for an agent to do that thing. So, those who wish to defend both (1) and (2) must deny that reasons to forgive can be requiring and explain why these reasons possess this potentially unique feature. In this talk, I take up this challenge. I argue that forgiveness is reasoned and elective because it is risky. By reflecting on the riskiness of forgiveness, we can come to see not only how forgiveness can be both reasoned and elective, but also why forgiveness is not so unlike other attitudes at play in our moral lives. 
 
 ---
 
