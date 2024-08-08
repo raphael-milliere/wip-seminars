@@ -51,9 +51,9 @@ Philosophers have noted a tension between two independently plausible features o
 
 ## 3 September, 2024
 ### [Karen Jones](https://philpeople.org/profiles/karen-jones) (University of Melbourne)
-### Title [TBC]
+### Recentre/Unlearn: White Policing of the Borders of Philosophy and How to Stop Doing It
 
-<!-- > Abstract [TBC] -->
+This talk, cowritten with Francois Schroeter, is a response to comments by current (and former) First Nations students that philosophy is not culturally safe for First Nations Australians and that settler philosophers first have to do work among ourselves before we are fit partners for collaboration. We identify the many ways in which the discipline of philosophy is subject to white policing, both of its borders and of its centre. We explore strategies for remedy including: 1. Leave space (or “resign from the police”), 2. Add to the mix;  and, 3. Co-create, before advocating for 4. a model we call “recentre/unlearn”. Our preferred model calls for placing the experiences and concerns of First Nations people (our students, their mobs) at the heart of how we approach philosophy and taking ourselves to be answerable to them. What this requires will depend on which node of a decentred conception of disciplinary norms someone occupies. Recentring is process rather than goal. We conclude by exploring obstacles to implementing our proposal including especially the status you have and the status you seek.
 
 ---
 
