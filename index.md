@@ -23,9 +23,9 @@ Recommender systems are now a dominant part of most social media platforms. They
 
 ## 13 August, 2024
 ### [Gillian Russell](https://gillianrussell.net/) (Australian National University)
-### Title [TBC]
+### Logic for Virtual Worlds
 
-<!-- > Abstract [TBC] -->
+In the second half of "Two Dogmas", Quine argued that there could be empirical grounds to revise logic---at least in principle.  Since then the most (though still not very) popular proposal for what those empirical grounds might actually be has involved quantum mechanics.  Still, most logicians seem to think that quantum mechanics does not give us good enough reason for revision.  This paper considers and evaluates an alternative proposal for what those grounds might look like and the logic they would support: perhaps the experiences acquired in virtual reality give us reason to adopt an assessment-sensitive logic.
 
 ---
 
