@@ -59,9 +59,9 @@ This talk, cowritten with Francois Schroeter, is a response to comments by curre
 
 ## 10 September, 2024
 ### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi) (Macquarie University)
-### Title [TBC]
+### Nurturing Colonial Futures: Public Health Messaging and the Gestational Body in the Postcolonizing State
 
-<!-- > Abstract [TBC] -->
+In this paper, I argue that public health messaging as it relates to the practices related to the gestational body articulate atomistic notions of maternal responsibility for future health that maintain Indigenous mothers and their children outside of the representation of motherhood.  Focusing mainly on the so-called ‘Australian’ context, I analyse public health messages that emphasise the importance of pro-health behaviours related to preconception, gestation, breastfeeding and early childhood. Existing analyses of this messaging are driven by feminist critique of political intervention into gestational bodies. Despite the importance and value of these critiques, I argue that they tend to exacerbate the way that public health messaging centres white mothers and children, and, being based on atomistic accounts of maternal responsibly, obscure institutional responsibility for harms done to Indigenous mothers and their children. I draw on Lugones’ modern/colonial gender system, Moreton-Robinson’s discussion of the role British postcolonizing state, and the figure of the child as a colonial projection, from Faulkner, to argue that maternal responsibility interacts with colonial understandings of domesticity, the household and the child as future citizen, as based in a colonial ontology of gender as a mechanism of the postcolonizing state. In so doing, I show that public health as a colonial institution maintains Indigenous maternal bodies outside the scope of public representation and thus obscures institutional violence against Indigenous children.
 
 ---
 
