@@ -71,6 +71,9 @@ In this paper, I argue that public health messaging as it relates to the practic
 
 This talk will look at the UNGPs on business and human rights as a basis for content moderation, and consider the extent to which content moderation needs to be democratised.
 
+<p style="color: red; font-weight: bold;">Note: this talk will exceptionally take place at 2pm, since it is also part of a workshop organized by the Ethics & Agency Research Centre.</p>
+
+
 ---
 
 ## 24 September, 2024
