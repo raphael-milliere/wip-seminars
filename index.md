@@ -67,9 +67,9 @@ In this paper, I argue that public health messaging as it relates to the practic
 
 ## 17 September, 2024
 ### [John Tasioulas](https://www.philosophy.ox.ac.uk/people/john-tasioulas) (University of Oxford)
-### Title [TBC]
+### Content Moderation, Human Rights, and Democracy
 
-<!-- > Abstract [TBC] -->
+This talk will look at the UNGPs on business and human rights as a basis for content moderation, and consider the extent to which content moderation needs to be democratised.
 
 ---
 
@@ -81,9 +81,9 @@ In this paper, I argue that public health messaging as it relates to the practic
 
 ## 1 October, 2024
 ### [Daniele Valentini](https://uni-osnabrueck.academia.edu/DanieleValentini) (Osnabrück University)
-### Title [TBC]
+### Virtual Reality and the scaffolded mind: Immersive beneficial and hostile scaffolds and their relationship
 
-<!-- > Abstract [TBC] -->
+Virtual Reality (VR) has started to alter how we carry out our mental abilities. From surgical training to emotion regulation therapies, VR has been leveraged to enhance human cognitive skills and affective life. Times are ripe to examine the scaffolding mechanisms of VR, an underexplored aspect in the 4E debate. This is what I will do in this talk. Specifically, I will investigate the new possibilities that VR offers in terms of technological embodiment and environmentally supported cognitions and emotions. VR’s defining characteristics – presence, immersion and multisensory feedback – will be pursued along both their beneficial and hostile scaffolding outcomes. Considering the former, I will dissect how VR can aid professionals, reduce racial bias and help depressed patients. Concerning the latter, I will present how, in the near future, VR might be co-opted by extremist individuals and groups to promote violent radicalization. Zooming in on radicalization, I will then show how, in some cases, the strict distinction between helpful and hostile scaffolds adopted so far, may lead scholars to miss out on some crucial details of affective experiences. I will introduce the notion of scaffolding transformation to highlight how the same evolving scaffolding relation can turn initial beneficial affective effects into deleterious emotional burnouts. 
 
 ---
 
