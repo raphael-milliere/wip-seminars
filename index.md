@@ -91,7 +91,7 @@ Virtual Reality (VR) has started to alter how we carry out our mental abilities.
 ---
 
 ## 8 October, 2024
-### Speaker [TBC]
+### [David Plunkett](https://philosophy.dartmouth.edu/people/david-plunkett) (Dartmouth University)
 ### Title [TBC]
 
 <!-- > Abstract [TBC] -->
