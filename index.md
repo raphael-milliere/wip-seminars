@@ -108,9 +108,9 @@ Consider the following three familiar philosophical issues: the nature of consci
 
 ## 22 October, 2024
 ### [Michelle Liu](https://michelleyuanboliu.wixsite.com/mybl) (Monash University)
-### Title [TBC]
+### The Imagistic Harm of Language
 
-<!-- > Abstract [TBC] -->
+Language can transmit harmful representations. It is usually thought that pernicious language about social groups transmits prejudiced beliefs and associations about those groups. Focusing on generics and metaphors, this paper explores a distinct but related type of harmful representation transmitted by language, namely, harmful mental imagery. While it is unsurprising that pernicious language begets harmful mental imagery, the nature and scale of this imagistic harm are underappreciated. Empirical literature on language processing suggests that mental imagery is a pervasive feature of language processing. Furthermore, mental imagery plays an important role in shaping our memories and judgements. The paper argues for the importance of mental imagery in theorising about harmful language and suggests ways in which the imagistic harm may be combatted.  
 
 ---
 
