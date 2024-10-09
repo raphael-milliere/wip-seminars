@@ -100,9 +100,9 @@ Consider the following three familiar philosophical issues: the nature of consci
 
 ## 15 October, 2024
 ### [David Barack](https://dbarack.com/) (Lingnan University)
-### Title [TBC]
+### Foraging and Thought
 
-<!-- > Abstract [TBC] -->
+The dynamics of an ever-changing world are at the heart of biology. In this talk, I will canvas several aspects of my research that reflect the centrality of dynamics. First, I will present some conceptual work on foraging and relate principles drawn from foraging theory to inquiry. Second, I will explore some of the psychological processes and neural mechanisms underlying information foraging. These analyses exemplify the importance of neural dynamics to explaining cognition, which I describe as the Hopfieldian approach to the brain. I'll conclude with some discussion about how the dynamical approach may offer a new angle on the unification of biology.
 
 ---
 
