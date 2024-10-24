@@ -115,7 +115,9 @@ Language can transmit harmful representations. It is usually thought that pernic
 ---
 
 ## 29 October, 2024
-### [Seth Lazar](https://sethlazar.org/) (Australian National University)
-### Title [TBC]
+### [Jean-Philippe Deranty](https://researchers.mq.edu.au/en/persons/jean-philippe-deranty) (Macquarie University)
+### Presenting The Case for Work (OUP, 2024)
+
+_The Case for Work_ is a book exploring arguments for and against the idea that work is a “central” component in the lives of individuals and of human communities. In this talk, I briefly present the book’s main aims, the structure of its argument and some of the key claims made in it.
 
 <!-- > Abstract [TBC] -->
