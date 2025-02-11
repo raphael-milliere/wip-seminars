@@ -1,6 +1,6 @@
 # Schedule for Semester 1, 2025
 
-## 30 July, 2024
+## 30 July, 2025
 ### [Neil Mehta](http://www.profneilmehta.com/) (Yale-NUS College)
 ### A natural argument for contextualism
 
