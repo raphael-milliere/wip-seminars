@@ -1,10 +1,5 @@
 # Schedule for Semester 2, 2024
 
-## 23 July, 2024
-### [Stephen Gadsby](https://www.stephengadsby.com/) (Antwerp University)
-
----
-
 ## 30 July, 2024
 ### [Neil Mehta](http://www.profneilmehta.com/) (Yale-NUS College)
 ### A natural argument for contextualism
