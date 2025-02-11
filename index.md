@@ -28,6 +28,8 @@ Is surrogacy a form of legitimate work? Or does the nature of pregnancy and pare
 ### [Marco Faccin](https://marcofacchinmarcof.wixsite.com/site) (University of Antwerp)
 ### TBD
 
+**[Note: this seminar will take place in the Moot Court on level 2 (Room 224).]**
+
 TBA
 
 ---
@@ -35,6 +37,8 @@ TBA
 ## 25 March 2025
 ### [TBA]() (TBA)
 ### TBA 
+
+**[Note: this seminar will take place in the Moot Court on level 2 (Room 224).]**
 
 TBA 
 
