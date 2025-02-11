@@ -1,4 +1,4 @@
-# Schedule for Semester 2, 2024
+# Schedule for Semester 1, 2025
 
 ## 30 July, 2024
 ### [Neil Mehta](http://www.profneilmehta.com/) (Yale-NUS College)
