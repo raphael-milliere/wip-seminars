@@ -72,8 +72,8 @@ TBA
 
 ---
 
-## TBA
-### [TBA](TBA) (TBA)
+## 29 April 2025
+### [Bryan Mukandi](https://scholars.uow.edu.au/bryan-mukandi) (TBA)
 ### TBA
 
 TBA 
@@ -89,8 +89,8 @@ TBA
 ---
 
 ## 13 May 2025
-### [TBA](TBA) (TBA)
-### TBA
+### [David Spurrett](https://srpc.ukzn.ac.za/staff-profile/philosophy/david-spurrett/) (Epistemic Actions Revisited (or: I Actively Infer a Riot))
+### Kirsh and Maglio’s (1994) paper “On distinguishing Epistemic from Pragmatic Action” contrasts ‘epistemic’ actions which have a primarily cognitive payoff, from ‘pragmatic’ ones which advance towards an established goal. They also argue that people demonstrably engage in epistemic actions. Their idea of ‘epistemic actions’ has featured in many defences of extended cognition and been developed and updated for use in talk of cognitive niche construction and in other ways. As originally introduced, besides having a cognitive payoff, epistemic actions have two distinguishing features, both stipulated rather than defended: First, agents do epistemic actions for themselves. Second, the effect of (successful) epistemic actions is beneficial. Subsequent work has generally retained both stipulations. In this talk I develop a generalized picture of epistemic actions that retains the idea that their main effect is cognitive but abandons the ‘DIY’ assumption to allow for both self-and other-directed epistemic actions and abandons the ‘beneficial’ assumption to allow for both beneficial and hostile epistemic actions. (That is hostile in the sense used by Kim Sterelny.) Andy Clark has recently argued that from a predictive processing perspective that accommodates active inference, pragmatic and epistemic actions are not ‘fundamentally distinct’. I take this on board as a constraint and explain how the categories of other-directed beneficial epistemic actions and of other-directed hostile epistemic actions can, at least informally, be accommodated as forms of active inference. The generalized framework suggests the further and perhaps surprising possibility of self-directed hostile epistemic actions. I explain why that needn’t be a ridiculous idea, and argue that cognitive self-sabotage is, subject to some conditions, a coherent possibility. Unlike the other additions I defend here, self-sabotage cannot straightforwardly be accommodated by the predictive processing/active inference perspective. In that case either we can’t have both, or we need to make changes to the predictive processing framework.
 
 TBA
 
@@ -108,7 +108,7 @@ When I receive an email making a promise, giving me an order, or offering me a j
 ### [Miriam Schleifer-McCormick](http://www.miriammccormick.com/) (University of Richmond)
 ### Fine Attention, Broad Awareness: Maintaining Awareness to Avoid the Cost of Ignorance
 
-TBA
+Is it sometimes valuable to diminish one’s awareness? An affirmative answer has been given in a number of recent discussions. First, it has been suggested that sometimes increased awareness is too painful to be of value. Georgi Gardiner, for example, has argued that a the kind of mental block found in self-deception can be the most rational response is cases of acquaintance rape. Second, some argue that there are cases where forgetting is what is needed to treat people with respect, or in order to forgive others when forgiveness is called for. Finally, it may seem that intellectual humility demands that we diminish awareness of our intellectual capacities. I argue that in all these cases, what is being suggested is that we not place or heighten our attention on certain events, memories or capacities. But awareness and attention differ. Once this distinction is made, I argue that diminishing one’s awareness is never good.
 
 ## 3 June 2025
 ### [Doug McConnell](https://researchers.mq.edu.au/en/persons/douglas-mcconnell) (Macquarie University)
