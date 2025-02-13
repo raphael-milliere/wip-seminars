@@ -10,9 +10,9 @@ A central debate in conspiracy theory research concerns how to conceptualize con
 
 ## 3 March 2025
 ### [Maciej Macelko](https://researchers.mq.edu.au/en/persons/maciej-maselko) (Macquarie University)
-### TBA
+### What could possibly go wrong? Exploring the social and ethical considerations for managing ecosystems with synthetic biology
 
-TBA
+Advances in synthetic biology are giving humans unprecedented capabilities to engineer life. These include applications for manipulating ecosystems by deliberately causing the extinction of a pest species, engineering animals to cleanup pollution, and even functionally restoring extinct species. I'll discuss some of these technologies, the actively debated ethical and social dilemmas regarding their use, and how I - as a practicing animal synthetic biologist - think about my responsibilities.
 
 ---
 
