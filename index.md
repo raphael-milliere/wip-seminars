@@ -26,11 +26,11 @@ Is surrogacy a form of legitimate work? Or does the nature of pregnancy and pare
 
 ## 18 March 2025
 ### [Marco Faccin](https://marcofacchinmarcof.wixsite.com/site) (University of Antwerp)
-### TBD
+### Unearthing the cognitive ontology implicit in radically embodied cognitive science
 
 **[Note: this seminar will take place in the Moot Court on level 2 (Room 224).]**
 
-TBA
+Every science has an ontology: a list of basic ingredients from which to “cook” scientific theories up. When it comes to (classical) cognitive science, this ontology consists of a number of computational and/or representational kinds, ideally mappable on neural kinds in some stable manner. Such an ontology is rife of cognitivist, internist assumptions - assumptions that “radically embodied” cognitive science contests. Which begs the question: what’s the ontology radically embodied cognitive science is based upon? Here, I will try to offer a descriptive answer to this question, trying to articulate the cognitive ontology implicit in radically embodied cognitive science. I will argue that the relevant cognitive kinds constituting this cognitive ontology are interaction- (rather than computation- or representation-) based, and that affordances are the most obvious and most widespread example. I will also argue that these kinds are typically expected to map onto certain relevant aspects of the agent-environment system in a systematic, though context-dependent, way. I will then show that such a cognitive ontology actually reflects some of the central experimental practices of radically embodied cognitive science, and evaluate such a cognitive ontology based on a number of desiderata a cognitive ontology is expected to satisfy.
 
 ---
 
