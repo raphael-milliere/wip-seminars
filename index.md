@@ -45,7 +45,7 @@ TBA
 ---
 
 ## 1 April 2025
-### [TBA](TBA) (TBA)
+### [Emily Hughes](https://lighthouse.mq.edu.au/media-releases/ai,-neurodiversity-the-focus-of-newly-funded-decra-research) (Macquarie University) 
 ### TBA
 
 TBA
@@ -53,7 +53,7 @@ TBA
 ---
 
 ## 8 April 2025
-### [Emily Hughes](https://lighthouse.mq.edu.au/media-releases/ai,-neurodiversity-the-focus-of-newly-funded-decra-research) (Macquarie University)
+### [Lok-Chi Chan](https://www.lokchichan.com/) (National Taiwan University)
 ### TBA
 
 TBA
