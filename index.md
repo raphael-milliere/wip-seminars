@@ -35,12 +35,12 @@ Every science has an ontology: a list of basic ingredients from which to “cook
 ---
 
 ## 25 March 2025
-### [TBA]() (TBA)
-### TBA 
+### [Jack Hume](https://www.jackhume.net/) (UCL)
+### Doing Justice to Cultural Goods 
 
 **[Note: this seminar will take place in the Moot Court on level 2 (Room 224).]**
 
-TBA 
+State support for art and heritage can be divisive. Cultural policies are criticised for being extravagant, for entrenching marginalisation, and for favouring particular activities e.g. artistic appreciation. These criticisms have piqued the interests of political philosophers. In one corner of the literature, we see liberals challenging the justifiability of cultural policies, and others responding to that challenge. Call this Question A: Are state cultural policies justified in general? In another corner of the literature, we find theorists exploring what role cultural policies can play in redressing injustices. Call this Question B: What should states be doing in the cultural sector to support oppressed groups and redress historical injustices? In this paper, I argue that an adequate response to Question A will incorporate insights from Question B. However, the current literature fails to do this. I begin to develop a more comprehensive approach, on which cultural agency forms the basis of cultural policy. 
 
 ---
 
