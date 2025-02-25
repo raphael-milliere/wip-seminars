@@ -54,9 +54,9 @@ TBA
 
 ## 8 April 2025
 ### [Lok-Chi Chan](https://www.lokchichan.com/) (National Taiwan University)
-### TBA
+### A New Galilean Physicalist Account of Ineffability
 
-TBA
+Ineffability is widely regarded as one of the key features of subjective phenomenal experience by both physicalists and non-physicalists: such experience, often conceptualized in terms of qualia, is not expressible in terms of public language, and thus scientific investigation can only target the objective, public aspects of the world and not such subjective aspects. Physicalists typically employ accounts under the umbrella term “phenomenal concept strategy” to explain this ineffability; yet, I argue that the resulting idea about the relationship between phenomenal and theoretical concepts is incomplete. Here, I propose a new account of phenomenal ineffability and phenomenal concepts that clarifies these issues while offering a deflationary reconstruction. Drawing on the Enlightenment distinction between primary, secondary, and tertiary qualities in a non-literal way, this account explains why certain phenomenal concepts remain untranslatable into theoretical concepts, and vice versa. This leads to some new understandings of both phenomenal consciousness and scientific thinking.
 
 ---
 
