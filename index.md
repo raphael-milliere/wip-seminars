@@ -8,7 +8,7 @@ A central debate in conspiracy theory research concerns how to conceptualize con
 
 ---
 
-## 3 March 2025
+## 4 March 2025
 ### [Maciej Macelko](https://researchers.mq.edu.au/en/persons/maciej-maselko) (Macquarie University)
 ### What could possibly go wrong? Exploring the social and ethical considerations for managing ecosystems with synthetic biology
 
