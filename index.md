@@ -46,9 +46,14 @@ State support for art and heritage can be divisive. Cultural policies are critic
 
 ## 1 April 2025
 ### [Emily Hughes](https://lighthouse.mq.edu.au/media-releases/ai,-neurodiversity-the-focus-of-newly-funded-decra-research) (Macquarie University) 
-### TBA
+### Autism, subjectivity, and the ‘destruction of the symbolic universe’
 
-TBA
+In phenomenological psychopathology, Autism is thought to involve an impoverished sense
+one’s self as subject and a diminished capacity for configuring this subjectivity into a
+meaningful narrative structure. At the same time as being determined as ‘unnarratable’
+however, Autism has nevertheless been defined by disability and queer theorists as a
+‘narrative condition,’ where behavioural signs are signified deficient through stories of
+otherness. My first aim in this talk is to unpack the hermeneutical and testimonial injustices that continue to render Autistic people as unreliable narrators of their own experiences. My second aim is to consider how differently configured symbolic universes might give rise to differently configured experiences of oneself as subject.
 
 ---
 
