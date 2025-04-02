@@ -113,7 +113,7 @@ When I receive an email making a promise, giving me an order, or offering me a j
 
 ## 27 May 2025
 ### [Miriam Schleifer-McCormick](http://www.miriammccormick.com/) (University of Richmond)
-### Fine Attention, Broad Awareness: Maintaining Awareness to Avoid the Cost of Ignorance
+### Fine Attention, Broad Awareness: Avoiding the Cost of Ignorance
 
 Is it sometimes valuable to diminish one’s awareness? An affirmative answer has been given in a number of recent discussions. First, it has been suggested that sometimes increased awareness is too painful to be of value. Georgi Gardiner, for example, has argued that a the kind of mental block found in self-deception can be the most rational response is cases of acquaintance rape. Second, some argue that there are cases where forgetting is what is needed to treat people with respect, or in order to forgive others when forgiveness is called for. Finally, it may seem that intellectual humility demands that we diminish awareness of our intellectual capacities. I argue that in all these cases, what is being suggested is that we not place or heighten our attention on certain events, memories or capacities. But awareness and attention differ. Once this distinction is made, I argue that diminishing one’s awareness is never good.
 
