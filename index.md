@@ -87,9 +87,9 @@ Recent years have seen growing calls for greater diversity within Philosophy. Pr
 
 ## 6 May 2025
 ### [Stephanie Sheintul](https://researchers.adelaide.edu.au/profile/stephanie.sheintul) (University of Adelaide)
-### TBA
+### Rights, Powers, and Paternalism
 
-TBA
+It is controversial when we are morally permitted to act for another’s good. Some suggest that we are rarely permitted to do so given that competent adults have a pro tanto claim right to be the only ones to act only or primarily for their good. Others suggest that people have a special moral power over their good such that they can exclude us from acting for their good when it would otherwise be permissible to do so. This paper has three aims. The first is to argue that competent adults more plausibly have a pro tanto claim right against others acting to promote their good for the reason that (a) they are unlikely to (or will not) deliberate, judge, or act in their best interests and/or that (b) their judgment or decision about what is valuable or in their best interests is mistaken and/or inferior to the acting agent’s. The second is to introduce a corollary moral power over our good which holds that we have the moral power to give others permission to act for our good when it would otherwise be impermissible for them to do so. The third is to sketch a novel rights-based anti-paternalist account.
 
 ---
 
