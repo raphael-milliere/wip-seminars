@@ -78,7 +78,7 @@ Ineffability is widely regarded as one of the key features of subjective phenome
 ---
 
 ## 29 April 2025
-### [Bryan Mukandi](https://scholars.uow.edu.au/bryan-mukandi) (TBA)
+### [Bryan Mukandi](https://scholars.uow.edu.au/bryan-mukandi) (Wollongong)
 ### Critical Phenomenology as Dialectic of Technique and Tendency: an Africana reckoning
 
 Recent years have seen growing calls for greater diversity within Philosophy. Proponents tend to accept as self-evident the benefit of studying texts written by a wider swathe of society and of working alongside a more diverse group of colleagues. Yet even among that group, those benefits are typically understood to be secondary to the ultimate, instrumental value of the discipline. Taking Critical Phenomenology as a case study, I intend to challenge the idea that the matter of who gets to philosophise is a secondary one. Drawing primarily on lessons from Africana philosophy, I will go on to make the case for a practice of philosophy anchored in the pursuit of common cause.
