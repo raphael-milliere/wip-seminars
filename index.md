@@ -105,7 +105,7 @@ Kirsh and Maglio’s (1994) paper “On distinguishing Epistemic from Pragmatic 
 
 ## 20 May 2025
 ### [Chris Cousens](https://chriscousensphilosophy.wordpress.com/chris-cousens/) (University of Glasgow)
-## **CANCELLED**
+# CANCELLED
 ---
 
 ## 27 May 2025
