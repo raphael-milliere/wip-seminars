@@ -1,7 +1,7 @@
 # Schedule for Semester 2, 2025
 
 ## 29 July
-### [Isis Urgell](https://philpeople.org/profiles/isis-urgell-2) (Monash University)
+### [Isis Urgell](https://philpeople.org/profiles/isis-urgell-2) (Monnash University)
 ### TBA 
 
 TBA
