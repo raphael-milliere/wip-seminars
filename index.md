@@ -12,7 +12,7 @@ TBA
 ### [Tyler Paytas](https://www.tylerpaytas.com/) (Griffith University)
 ### If it Pleases the Gods: The Socratic Piety of Epictetus
 
-TBA
+TBA 
 
 ---
 
