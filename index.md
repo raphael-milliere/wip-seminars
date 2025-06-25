@@ -93,10 +93,10 @@ TBA
 ---
 
 ## 20 May 2025
-### [Annie Sandrusi](https://researchers.mq.edu.au/en/persons/annie-sandrussi) (Macquarie University)
-### Moral Patienthood and the Question of the Polis
+### [Chris Cousens](https://chriscousensphilosophy.wordpress.com/chris-cousens/) (University of Glasgow)
+### Large language models in large language games
 
-TBA
+When I receive an email making a promise, giving me an order, or offering me a job, have I in fact been promised, ordered, or offered? Until recently, we may have easily said ‘Yes!’… but AI is complicating things. As large language models capable of output mimicking human speech become widely available, we can no longer be as confident that the email (or other online communication) we receive has a human author. Traditional theories of speech acts—the things we do with words, including promises, orders, and offers—set great store in the intention of the speaker or the uptake of the audience. But neither, I will argue, are well-suited to explaining modern online speech. What to do about this? I’ll sketch out an alternative speech act theory, grounding the force of an utterance in the conversational score, rather than the minds of speakers and audiences. This, I hope, will better explain how we interact in the post-AI online landscape. It might also be useful for explaining offline speech acts. What to do about this? I’ll sketch out an alternative speech act theory, grounding the force of an utterance in the conversational score, rather than the minds of speakers and audiences. This, I hope, will better explain how we interact in the post-AI online landscape. It might also be useful for explaining offline speech acts.
 
 ---
 
