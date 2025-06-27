@@ -26,9 +26,9 @@ TBA
 
 ## 19 August
 ### [Simine Vazire](https://www.simine.com/) (University of Melbourne)
-### TBA
+### Journal prestige can and should be earned
 
-TBA
+With prominent threats to trust in science around the world, it is especially important to make clear why scientific institutions, including journals, are worthy of trust. Too often, journals’ reputations are unearned—based on flawed metrics such as impact factors, or simply the inertia of prestige. But journal prestige can and should be earned. Journals that invest in and facilitate both pre- and post-publication quality checks, error detection, and correction are the ones that deserve the most trust, and the most prestige.
 
 ---
 
